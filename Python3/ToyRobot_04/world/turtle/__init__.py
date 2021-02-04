@@ -1,0 +1,1 @@
+print(f'[Package] turtle loaded.')
